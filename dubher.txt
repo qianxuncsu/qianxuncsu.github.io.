@@ -1,0 +1,18 @@
+//config
+Setting/options/Repository name:
+qianxuncsu.github.io  >>> qianxuncsu.github.io
+Setting/Pags/Custom domain
+www.dubher.com
+
+
+
+
+
+//ip 解析：
+#&&&
+CNAME
+qianxuncsu.github.io
+#&&&
+
+A IPV4 地址
+185.199.111.153
